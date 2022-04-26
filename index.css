@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("./photo-1519751138087-5bf79df62d5b.avif");
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    font-family: 'Dancing Script', cursive;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: normal;
+    margin-top: -15rem;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.big-text {
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+}
+
+.count-down {
+    text-align: center;
+}
+
+.countdown span {
+    font-size: 1.5rem;
+}
