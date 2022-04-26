@@ -11,6 +11,6 @@ So far it's easy and I'm breezing through the vidoes. :)
 ### Thoughts:
 I really want to master JavaScript and create projects of my own using the said language. In order for that to happen, I need to practice coding daily, recreate different projects, and watch online tutorials.
 
-### Link(s) to work:
+### Link(s) to Work:
 [index.js](/index.js)
 
