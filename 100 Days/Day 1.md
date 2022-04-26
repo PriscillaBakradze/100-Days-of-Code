@@ -2,6 +2,7 @@
 ### Today's Progress: 
 * Grateful to have the opportunity of buying online courses on Udemy. I started watching and following along with The Complete JavaScript Course 2022: From Zero to Expert! [JavaScript Course 2022](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#overview). 
 So far it's easy and I'm breezing through the vidoes. :) 
+
 ![image](https://user-images.githubusercontent.com/102761223/165196142-567dca95-ae50-4496-9c45-f021a69fa3f5.png)
 
 
