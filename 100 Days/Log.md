@@ -11,6 +11,8 @@ I really want to master JavaScript and create projects of my own using the said 
 
 ### Link(s) to Work: [index.js](/index.js)
 
+---
+
 ## ✨ Day 2: April 26, 2022. TUE
 
 ### Today's Progress:
