@@ -24,6 +24,8 @@ I just got familiar with ternary in JS 🥲, and it is quite a useful conditiona
 
 ### Link(s) to Work: [quiz.js](/quiz.js)
 
+---
+
 ## ✨ Day 3: April 27, 2022. WED
 
 ### Today's Progress:
