@@ -1,4 +1,4 @@
-✨ ## Day 1: April 25, 2022. MON
+## ✨ Day 1: April 25, 2022. MON
 ### Today's Progress: 
   * Grateful to have the opportunity of buying online courses on Udemy. I started watching and following along with The Complete JavaScript Course 2022: From Zero to Expert! [JavaScript Course 2022](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#overview). 
 So far it's easy and I'm breezing through the vidoes. :) 
@@ -11,8 +11,7 @@ I really want to master JavaScript and create projects of my own using the said 
 
 ### Link(s) to Work: [index.js](/index.js)
 
-
-✨ ## Day 2: April 26, 2022. TUE
+## ✨ Day 2: April 26, 2022. TUE
 
 ### Today's Progress:
   * I continued watching The Complete JavaScript Course on Udemy and have progressed a little further.
@@ -25,8 +24,7 @@ I just got familiar with ternary in JS 🥲, and it is quite a useful conditiona
 
 ### Link(s) to Work: [quiz.js](/quiz.js)
 
-
-✨ ## Day 3: April 27, 2022. WED
+## ✨ Day 3: April 27, 2022. WED
 
 ### Today's Progress:
   * I watched the next couple of videos on Udemy covering the JS functions. At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge.
