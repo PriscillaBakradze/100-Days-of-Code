@@ -1,33 +1,38 @@
 ## Day 1: April 25, 2022. MON
 ### Today's Progress: 
-* Grateful to have the opportunity of buying online courses on Udemy. I started watching and following along with The Complete JavaScript Course 2022: From Zero to Expert! [JavaScript Course 2022](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#overview). 
+  * Grateful to have the opportunity of buying online courses on Udemy. I started watching and following along with The Complete JavaScript Course 2022: From Zero to Expert! [JavaScript Course 2022](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#overview). 
 So far it's easy and I'm breezing through the vidoes. :) 
-
 ![image](https://user-images.githubusercontent.com/102761223/165196142-567dca95-ae50-4496-9c45-f021a69fa3f5.png)
 
-
-* I watched a coding challenge on YouTube that covers 10 JS Projects and replicated a Countdown Timer website. [Coding Challenge](https://www.youtube.com/watch?v=dtKciwk_si4&ab_channel=FlorinPop).
+  * I watched a coding challenge on YouTube that covers 10 JS Projects and replicated a Countdown Timer website. [Coding Challenge](https://www.youtube.com/watch?v=dtKciwk_si4&ab_channel=FlorinPop).
 
 ### Thoughts:
-I really want to master JavaScript and create projects of my own using the said language. In order for that to happen, I need to practice coding daily, recreate different projects, and watch online tutorials.
+  I really want to master JavaScript and create projects of my own using the said language. In order for that to happen, I need to practice coding daily, recreate different projects, and watch online tutorials.
 
-### Link(s) to Work:
-[index.js](/index.js)
+### Link(s) to Work: [index.js](/index.js)
+
 
 ## Day 2: April 26, 2022. TUE
 
 ### Today's Progress:
-
-* I continued watching The Complete JavaScript Course on Udemy and have progressed a little further. [JavaScript Course 2022](./https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#overview).
-
+  * I continued watching The Complete JavaScript Course on Udemy and have progressed a little further.
 ![image](https://user-images.githubusercontent.com/102761223/165399559-f1753ace-1b5d-4364-a782-74cda78e3596.png)
 
-* I replicated a Quiz App website. [Coding Challenge](./https://www.youtube.com/watch?v=dtKciwk_si4).
+  * I replicated a Quiz App website. [Coding Challenge](./https://www.youtube.com/watch?v=dtKciwk_si4).
 
 ### Thoughts:
+  I just got familiar with ternary in JS 🥲, and it is quite a useful conditional operator. The Internet really is, above all else, a repository of knowledge - all the information is on there, it's all about how I use these opportunities that will truly make a difference.
 
-I just got familiar with ternary in JS 🥲, and it is quite a useful conditional operator. The Internet really is, above all else, a repository of knowledge - all the information is on there, it's all about how I use these opportunities that will truly make a difference.
+### Link(s) to Work: [quiz.js](/quiz.js)
 
-### Link(s) to Work:
 
-[quiz.js](/quiz.js)
+## Day 3: April 27, 2022. WED
+
+### Today's Progress:
+  * I watched the next couple of videos on Udemy covering the JS functions. At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge.
+![image](https://user-images.githubusercontent.com/102761223/165662441-e15005f9-30e2-4073-a4c6-ccfcf81b304f.png)
+
+### Thoughts: 
+  I had no idea what was the difference between a function expression and a function declaration. Maybe this is something I should have known by now, but I'm still happy I got to learn the difference today. I'll be moving on to JS Arrays tomorrow and I hope I'm able to do the challenge as I struggle a little bit with Arrays. :(
+
+### Link(s) to Work: 
