@@ -30,6 +30,7 @@ So far it's easy and I'm breezing through the vidoes. :)
 
 ### Today's Progress:
   * I watched the next couple of videos on Udemy covering the JS functions. At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge.
+ 
 ![image](https://user-images.githubusercontent.com/102761223/165662441-e15005f9-30e2-4073-a4c6-ccfcf81b304f.png)
 
 ### Thoughts: 
