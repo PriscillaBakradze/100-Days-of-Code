@@ -33,7 +33,7 @@ I just got familiar with ternary in JS 🥲, and it is quite a useful conditiona
 ### ✨ Day 3: April 27, 2022. WED
 
 ### Today's Progress:
-  * I watched the next couple of videos on Udemy covering the JS functions. At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge. 
+  * I watched the next couple of videos on Udemy covering the JS functions.                                                                                               At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge. 
 ![image](https://user-images.githubusercontent.com/102761223/165662441-e15005f9-30e2-4073-a4c6-ccfcf81b304f.png)
 
 ### Thoughts: 
