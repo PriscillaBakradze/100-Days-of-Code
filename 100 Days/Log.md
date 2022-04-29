@@ -33,7 +33,8 @@ I just got familiar with ternary in JS 🥲, and it is quite a useful conditiona
 ### ✨ Day 3: April 27, 2022. WED
 
 ### Today's Progress:
-  * I watched the next couple of videos on Udemy covering the JS functions.                                                                                               At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge. 
+  * I watched the next couple of videos on Udemy covering the JS functions. At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge. 
+
 ![image](https://user-images.githubusercontent.com/102761223/165662441-e15005f9-30e2-4073-a4c6-ccfcf81b304f.png)
 
 ### Thoughts: 
@@ -47,9 +48,10 @@ I had no idea what was the difference between a function expression and a functi
 
 ### Today's Progress:
  * I moved on to the arrays in my JS course. I had an array exercise awaiting me at the end which I was able to finish. Although, didn't make much progress with the videos as I would have liked, but tomorrow will definitely try to advance forward as I try to complete 2 coding challenges covering different topics.
+
  ![image](https://user-images.githubusercontent.com/102761223/165877093-fec45604-b02a-46d8-9cab-b5a08ad6f28b.png)
 
 ### Thoughts: 
 I'm getting the hang of the arrays; super practical and convenient - it is truly something that I want to master. I learned a couple of essential methods as well and tmrw I'll be introduced to objects in JavaScript.
 
-### Link(s) to Work: [exercise2.js]
+### Link(s) to Work: [exercise2.js](/exercise2.js)
