@@ -55,4 +55,4 @@ I had no idea what was the difference between a function expression and a functi
 I'm getting the hang of the arrays; super practical and convenient - it is truly something that I want to master. I learned a couple of essential methods as well.
 
 ### Link(s) to Work: [exercise2.js](/exercise2.js)
-[Exercise](./FreeCodeCamp/exercise.js)
+[Exercise](/FreeCodeCamp/exercise.js)
