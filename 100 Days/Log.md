@@ -52,6 +52,6 @@ I had no idea what was the difference between a function expression and a functi
  ![image](https://user-images.githubusercontent.com/102761223/165877093-fec45604-b02a-46d8-9cab-b5a08ad6f28b.png)
 
 ### Thoughts: 
-I'm getting the hang of the arrays; super practical and convenient - it is truly something that I want to master. I learned a couple of essential methods as well and tmrw I'll be introduced to objects in JavaScript.
+I'm getting the hang of the arrays; super practical and convenient - it is truly something that I want to master. I learned a couple of essential methods as well.
 
 ### Link(s) to Work: [exercise2.js](/exercise2.js)
