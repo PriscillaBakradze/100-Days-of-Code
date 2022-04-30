@@ -33,7 +33,7 @@ I just got familiar with ternary in JS 🥲, and it is quite a useful conditiona
 ### ✨ Day 3: April 27, 2022. WED
 
 ### Today's Progress:
-  * I watched the next couple of videos on Udemy covering the JS functions. At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge. 
+I watched the next couple of videos on Udemy covering the JS functions. At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge. 
 
 ![image](https://user-images.githubusercontent.com/102761223/165662441-e15005f9-30e2-4073-a4c6-ccfcf81b304f.png)
 
@@ -47,12 +47,26 @@ I had no idea what was the difference between a function expression and a functi
 ### ✨ Day 4: April 28, 2022. THU
 
 ### Today's Progress:
- * I moved on to the arrays in my JS course. I had an array exercise awaiting me at the end which I was able to finish. Although, didn't make much progress with the videos as I would have liked, but tomorrow will definitely try to advance forward as I try to complete 2 coding challenges covering different topics.
+I moved on to the arrays in my JS course. I had an array exercise awaiting me at the end which I was able to finish. Although, didn't make much progress with the videos as I would have liked, but tomorrow will definitely try to advance forward as I try to complete 2 coding challenges covering new topics.
 
  ![image](https://user-images.githubusercontent.com/102761223/165877093-fec45604-b02a-46d8-9cab-b5a08ad6f28b.png)
 
 ### Thoughts: 
-I'm getting the hang of the arrays; super practical and convenient - it is truly something that I want to master. I learned a couple of essential methods as well.
+I'm getting the hang of the arrays; super practical and convenient - it is truly something that I want to master. I also learned a couple of essential methods.
 
 ### Link(s) to Work: [exercise2.js](/exercise2.js)
-[Exercise](/FreeCodeCamp/exercise.js)
+
+---
+
+### ✨ Day 5: April 29, 2022. FRI
+
+### Today's Progress:
+Continued with the arrays topic today and got into learning the objects, and for/while loops as well. With the help of the Lord, I was able to complete the 2 coding challenges at the end of the lesson and I also started a JS course on FreeCodeCamp and did couple of exercises on there.
+
+  ![image](https://user-images.githubusercontent.com/102761223/166085621-b61089cd-ae26-4f9a-a265-a06d154eedc3.png)
+
+### Thoughts:
+Although am quite familiar as to how loops work, I'm grateful to have the opportunity to go over these concepts and refresh my mind cause I really am no expert and do need daily practice...Oh and I feel like I should point this out...but the reason why I take a screenshot of my progress in my JS course everyday is because on the 100th day of the challenge, I can look back and see the improvement and the progress that I've made...Hopefully by then I'll be more comfortable and confident with using JS functions, arrays, objects, loops, etc...
+
+### Link(s) to Work: 
+
