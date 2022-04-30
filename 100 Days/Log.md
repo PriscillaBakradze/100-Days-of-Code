@@ -20,7 +20,7 @@ I really want to master JavaScript and create projects of my own using the said 
 
 ### Today's Progress:
   * I continued watching The Complete JavaScript Course on Udemy and have progressed a little further.
-  * 
+  
 ![image](https://user-images.githubusercontent.com/102761223/165399559-f1753ace-1b5d-4364-a782-74cda78e3596.png)
 
   * I replicated a Quiz App website. [Coding Challenge](./https://www.youtube.com/watch?v=dtKciwk_si4).
@@ -68,7 +68,7 @@ Continued with the arrays topic today and got into learning the objects, and for
   ![image](https://user-images.githubusercontent.com/102761223/166085621-b61089cd-ae26-4f9a-a265-a06d154eedc3.png)
 
 ### Thoughts:
-Although am quite familiar as to how loops work, I'm grateful to have the opportunity to go over these concepts and refresh my mind cause I really am no expert and do need daily practice. And I feel like I should point this out...but the reason why I take a screenshot of my progress in my JS course everyday is because on the 100th day of the challenge, I can look back and see the improvement and the progress that I have made... Hopefully by then I'll be more comfortable and confident with using JS functions, arrays, objects, loops, etc...
+Although am quite familiar as to how loops work, I'm grateful to have the opportunity to go over these concepts and refresh my mind cause I really am no expert and do need daily practice. And I feel like I should point this out...but the reason why I take a screenshot of my progress in my JS course on Udemy everyday is because on the 100th day of the challenge, I can look back and see the improvement and the progress that I have made... Hopefully by then I'll be more comfortable and confident with using JS functions, arrays, objects, loops, etc...
 
 ### Link(s) to Work: [exercise3.js](/Coding-Challenges/exercise3.js), [exercise4.js](/Coding-Challenges/exercise4.js), [fcc1.js](/FreeCodeCamp/fcc1.js)
 
