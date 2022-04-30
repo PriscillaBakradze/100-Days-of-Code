@@ -4,6 +4,7 @@
 ### Today's Progress: 
   * Grateful to have the opportunity of buying online courses on Udemy. I started watching and following along with The Complete JavaScript Course 2022: From Zero to Expert! [JavaScript Course 2022](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#overview). 
 So far it's easy and I'm breezing through the vidoes. :) 
+
 ![image](https://user-images.githubusercontent.com/102761223/165196142-567dca95-ae50-4496-9c45-f021a69fa3f5.png)
 
   * I watched a coding challenge on YouTube that covers 10 JS Projects and replicated a Countdown Timer website. [Coding Challenge](https://www.youtube.com/watch?v=dtKciwk_si4&ab_channel=FlorinPop).
@@ -19,6 +20,7 @@ I really want to master JavaScript and create projects of my own using the said 
 
 ### Today's Progress:
   * I continued watching The Complete JavaScript Course on Udemy and have progressed a little further.
+  * 
 ![image](https://user-images.githubusercontent.com/102761223/165399559-f1753ace-1b5d-4364-a782-74cda78e3596.png)
 
   * I replicated a Quiz App website. [Coding Challenge](./https://www.youtube.com/watch?v=dtKciwk_si4).
@@ -54,7 +56,7 @@ I moved on to the arrays in my JS course. I had an array exercise awaiting me at
 ### Thoughts: 
 I'm getting the hang of the arrays; super practical and convenient - it is truly something that I want to master. I also learned a couple of essential methods.
 
-### Link(s) to Work: [exercise2.js](/exercise2.js)
+### Link(s) to Work: [exercise2.js](/Coding-Challenges/exercise2.js)
 
 ---
 
