@@ -69,4 +69,5 @@ Continued with the arrays topic today and got into learning the objects, and for
 Although am quite familiar as to how loops work, I'm grateful to have the opportunity to go over these concepts and refresh my mind cause I really am no expert and do need daily practice. And I feel like I should point this out...but the reason why I take a screenshot of my progress in my JS course everyday is because on the 100th day of the challenge, I can look back and see the improvement and the progress that I have made... Hopefully by then I'll be more comfortable and confident with using JS functions, arrays, objects, loops, etc...
 
 ### Link(s) to Work: [exercise3.js](/Coding-Challenges/exercise3.js)
+[exercise4.js](/Coding-Challenges/exercise4.js)
 
