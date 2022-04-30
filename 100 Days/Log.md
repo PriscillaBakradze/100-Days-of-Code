@@ -40,7 +40,7 @@ I watched the next couple of videos on Udemy covering the JS functions. At the e
 ### Thoughts: 
 I had no idea what was the difference between a function expression and a function declaration. Maybe this is something I should have known by now, but I'm still happy I got to learn the difference today. I'll be moving on to JS arrays tomorrow and I hope I'm able to do the challenge as I struggle a little bit with the arrays. :(
 
-### Link(s) to Work: [exercise.js](/exercise.js)
+### Link(s) to Work: [exercise1.js](/Coding-Challenges/exercise1.js)
 
 ---
 
