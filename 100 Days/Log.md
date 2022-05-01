@@ -72,3 +72,15 @@ Although am quite familiar as to how loops work, I'm grateful to have the opport
 
 ### Link(s) to Work: [exercise3.js](/Coding-Challenges/exercise3.js), [exercise4.js](/Coding-Challenges/exercise4.js), [fcc1.js](/FreeCodeCamp/fcc1.js)
 
+---
+
+### ✨ Day 6: April 30, 2022. SAT
+
+### Today's Progres:
+I did FreeCodeCamp exercises today covering the objects in JS. Learned a difference between a dot notation and a bracket notation.
+
+### Thoughts:
+Took a little break from the Udemy courses as I'll be moving on to a different concept soon such as DOM fundamentals, and eventually start working on simple projects. Hence, I thought I'd do more exercises on FCC about objects/switch cases before I further move on to complex topics...As I am introduced to all these concepts though in JavaScript, it all still was a little fast paced during my classes so I wanna use my summer break to really grasp and learn all the "basics" in JS and go over everything that I might have missed or haven't paid attention to during my College studies...and I believe it's important to daily remind myself how blessed I am for all the opportunities and chances that I have...Thank the Lord!
+
+### Link(s) to Work: [fcc2.js](/FreeCodeCamp/fcc2.js)
+
