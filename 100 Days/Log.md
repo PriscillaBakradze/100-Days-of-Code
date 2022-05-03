@@ -118,7 +118,7 @@ I'm hoping that with more practice I'll be able to easily comprehend and solve p
 Spent my time progressing through FreeCodeCamp lessons. (arrays, while/for loops)
 
 ### Thoughts:
-I really enjoy the JavaScript lanuage...not too complex stuff so far, but it's fun and helpful to be able to do the exercises that allow me to acquire more knowledge.
+I really enjoy the JavaScript language...not too complex stuff so far, but it's fun and helpful to be able to do the exercises that allow me to acquire more knowledge.
 
 ### Link(s) to Work: [fcc4.js](/FreeCodeCamp/fcc4.js)
 
