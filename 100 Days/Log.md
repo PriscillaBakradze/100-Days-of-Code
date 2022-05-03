@@ -95,3 +95,19 @@ Continued practicing the objects and arrays on FreeCodeCamp.
 Learned the hasOwnProperty() method today which I hadn't heard before unfortunately...it essentially indicates whether the object owns the specified property as opposed to inheriting it...pretty straightfoward I know, lol :( Did some exercises on nested objects and arrays which was a little confusing at first, but I'm starting to fully understand and grasp the whole concept. Grateful for these short challenges that I get to do which help me to analyze and comprehend what exactly I learned... Today marks 1 week of the 100 DOC challenge, and I'm thankful to be apart of this as this challenge keeps me daily motivated and encouraged to keep on coding and studying!! Thanks *diliGentt*! <br/> (couldn't figure out how to accurately tag a person on GitHub, yes, I'm a boomer)....
 
 ### Link(s) to Work: [fcc3.js](/FreeCodeCamp/fcc3.js)
+
+---
+
+### ✨ Day 8: May 2, 2022. MON
+
+### Today's Progress:
+Progressed a little further in my JS Udemy course. Learned a few tricks and methods on solving problems and debugging code... <br/>
+![image](https://user-images.githubusercontent.com/102761223/166400009-7d2f68d6-f5dc-449b-9ca7-4075e7665c2d.png)
+
+### Thoughts:
+Did an exercise at the end that covered the arrays topic...the challenge was a little confusing at first, but I understood the logic so it wasn't TOO bad...
+I'm hoping that with more practice I'll be able to easily comprehend and solve problems, with the help of the Lord of course!
+
+### Link(s) to Work: [exercise5.js](/Coding-Challenges/exercise5.js)
+
+
