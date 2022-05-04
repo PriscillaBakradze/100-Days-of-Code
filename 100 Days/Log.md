@@ -122,3 +122,15 @@ I really enjoy the JavaScript language...not too complex stuff so far, but it's 
 
 ### Link(s) to Work: [fcc4.js](/FreeCodeCamp/fcc4.js)
 
+---
+
+### ✨ Day 10: May 4, 2022. WED
+
+### Today's Progress:
+Studied the next few lessons on FreeCodeCamp (Do-while, JavaScript recursion)...
+
+### Thoughts:
+This was my first time hearing of the word recursion in JS, lol...but what it means is the process of a function calling itself. Consequently, the function must have a condition to stop calling itself, otherwise, the function is called indefinitely.<br/> Did a few do-while exercises as well (quite rudimentary)...
+
+### Link(s) to Work: [fcc5.js](/FreeCodeCamp/fcc5.js)
+
