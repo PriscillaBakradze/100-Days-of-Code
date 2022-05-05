@@ -134,3 +134,16 @@ This was my first time hearing of the word recursion in JS, lol...but what it me
 
 ### Link(s) to Work: [fcc5.js](/FreeCodeCamp/fcc5.js)
 
+---
+
+### ✨ Day 11: May 5, 2022. THU
+
+### Today's Progress:
+Continued my FreeCodeCamp lessons (parseInt, Math.random, recursion)... I have finished the first section of my JS course (Basic JavaScript), whoo-hooo!!!<br/>
+![image](https://user-images.githubusercontent.com/102761223/167008923-c59904b5-ff67-42dd-a5f1-8b7dae55cb1e.png)
+
+### Thoughts:
+Excited to move on to the next module.. looking back, these exercises on FCC really helped me to put my knowledge to the test and actually put into practice every new topic I had learned.
+
+### Link(s) to Work: [fcc6.js](/FreeCodeCamp/fcc6.js)
+
