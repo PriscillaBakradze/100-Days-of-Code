@@ -147,3 +147,15 @@ Excited to move on to the next module.. looking back, these exercises on FCC rea
 
 ### Link(s) to Work: [fcc6.js](/FreeCodeCamp/fcc6.js)
 
+---
+
+### ✨ Day 12: May 6, 2022. FRI
+
+### Today's Progress: 
+Started the new section/lesson on FreeCodeCamp. Practiced on the array functions, learned an Object.freeze() method, and at the end, did a couple of exercises.
+
+### Thoughts:
+I can feel that it's getting a little challenging/hard, but I have also noticed that with more research, study, and practice... it gets easy! 🙏
+
+### Link(s) to Work: [fcc7.js](/FreeCodeCamp/fcc7.js)
+
