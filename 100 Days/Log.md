@@ -159,3 +159,15 @@ I can feel that it's getting a little challenging/hard, but I have also noticed 
 
 ### Link(s) to Work: [fcc7.js](/FreeCodeCamp/fcc7.js)
 
+---
+
+### ✨ Day 13: May 7, 2022. SAT
+
+### Today's Progress: 
+Continued my lessons on FreeCodeCamp. Learned how to destruct assignment to assign variables from arrays/nested objects... New concept for me, but very useful.
+
+### Thoughts:
+Gotta keep practicing more as I'm starting to touch upon new topics in JS which are a little confusing and complex, but definitely ascertainable!
+
+### Link(s) to Work: [fcc8.js](/FreeCodeCamp/fcc8.js)
+
