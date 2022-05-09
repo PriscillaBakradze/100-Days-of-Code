@@ -183,3 +183,15 @@ Only did three exercises today since they were new concept for me, but obviously
 
 ### Link(s) to Work: [fcc9.js](/FreeCodeCamp/fcc9.js)
 
+---
+
+### ✨ Day 15: May 9, 2022. MON
+
+### Today's Progress:
+Continued learning my FreeCodeCamp lessons. (contructors, getters, setters)...
+
+### Thoughts:
+Yep, officially getting harder lol....but I'm familiar with the constructors in C# language, so I'm easily understanding the concept in JS. 🙏
+
+### Link(s) to Work: [fcc10.js](/FreeCodeCamp/fcc10.js)
+
