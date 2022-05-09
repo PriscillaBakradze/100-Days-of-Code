@@ -171,3 +171,15 @@ Gotta keep practicing more as I'm starting to touch upon new topics in JS which 
 
 ### Link(s) to Work: [fcc8.js](/FreeCodeCamp/fcc8.js)
 
+---
+
+### ✨ Day 14: May 8, 2022. SUN
+
+### Today's Progress:
+Studied next couple of lessons on FreeCodeCamp (template literals, destructuring assignment)...
+
+### Thoughts:
+Only did three exercises today since they were new concept for me, but obviously that's not an excuse nor it should be... tmrw I'll try to get extra study and consequently, do more challenges!
+
+### Link(s) to Work: [fcc9.js](/FreeCodeCamp/fcc9.js)
+
