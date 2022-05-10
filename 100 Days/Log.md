@@ -195,3 +195,15 @@ Yep, officially getting harder lol....but I'm familiar with the constructors in 
 
 ### Link(s) to Work: [fcc10.js](/FreeCodeCamp/fcc10.js)
 
+---
+
+### ✨ Day 16: May 10, 2022. TUE
+
+### Today's Progress:
+Spent my time studying new lessons on FreeCodeCamp. (import, export)...
+
+### Thoughts:
+"Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino !!!
+
+### Link(s) to Work: [fcc11.js](/FreeCodeCamp/fcc11.js)
+
