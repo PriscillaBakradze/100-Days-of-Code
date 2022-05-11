@@ -207,3 +207,16 @@ Spent my time studying new lessons on FreeCodeCamp. (import, export)...
 
 ### Link(s) to Work: [fcc11.js](/FreeCodeCamp/fcc11.js)
 
+---
+
+### ✨ Day 17: May 11, 2022. WED
+
+### Today's Progress:
+Finished the second portion of FreeCodeCamp lessons. (promise, then, catch)... <br/>
+![image](https://user-images.githubusercontent.com/102761223/167962917-4231d04d-7de5-432d-9e4d-528ddc50c2e2.png)
+
+### Thoughts:
+Do not give up! Dedication and perseverance are essential and it's the only way we will achieve our aim and goal! 🙏
+
+### Link(s) to Work: [fcc12.js](/FreeCodeCamp/fcc12.js)
+
