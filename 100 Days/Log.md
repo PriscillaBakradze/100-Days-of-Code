@@ -220,3 +220,14 @@ Do not give up! Dedication and perseverance are essential and it's the only way 
 
 ### Link(s) to Work: [fcc12.js](/FreeCodeCamp/fcc12.js)
 
+---
+
+### ✨ Day 18: May 12, 2022. THU
+
+### Today's Progress:
+Started the third part of FreeCodeCamp lessons. (regular expressions) whoo-hoooo!!!
+
+### Thoughts:
+Keep going!!! Grateful for another day!
+
+### Link(s) to Work: [fcc13.js](/FreeCodeCamp/fcc13.js)
