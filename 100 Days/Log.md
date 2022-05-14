@@ -231,3 +231,15 @@ Started the third part of FreeCodeCamp lessons. (regular expressions) whoo-hoooo
 Keep going!!! Grateful for another day!
 
 ### Link(s) to Work: [fcc13.js](/FreeCodeCamp/fcc13.js)
+
+---
+
+### ✨ Day 19: May 13, 2022. FRI
+
+### Today's Progress:
+Continued my lessons on FreeCodeCamp. (regular expressions) Enjoying it!!!
+
+### Thoughts:
+Keep on coding, keep on practicing!!!
+
+### Link(s) to Work: [fcc14.js](/FreeCodeCamp/fcc14.js)
