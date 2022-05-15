@@ -243,3 +243,15 @@ Continued my lessons on FreeCodeCamp. (regular expressions) Enjoying it!!!
 Keep on coding, keep on practicing!!!
 
 ### Link(s) to Work: [fcc14.js](/FreeCodeCamp/fcc14.js)
+
+---
+
+### ✨ Day 20: May 14, 2022. SAT
+
+### Today's Progress:
+Practiced more with regular expressions on FreeCodeCamp. (greedy regex, anchor character)...
+
+### Thoughts:
+Regular expressions are important to know as they are used to match character combinations in strings. I'm enjoying my regex lessons ngl.
+
+### Link(s) to Work: [fcc15.js](/FreeCodeCamp/fcc15.js)
