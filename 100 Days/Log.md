@@ -255,3 +255,15 @@ Practiced more with regular expressions on FreeCodeCamp. (greedy regex, anchor c
 Regular expressions are important to know as they are used to match character combinations in strings. I'm enjoying my regex lessons ngl.
 
 ### Link(s) to Work: [fcc15.js](/FreeCodeCamp/fcc15.js)
+
+---
+
+### ✨ Day 21: May 15, 2022. SUN
+
+### Today's Progress:
+Continued studying and practicing my regular expressions on FreeCodeCamp. 
+
+### Thoughts:
+Pretty easy so far! Tmrw I'll do more exercises as I finish the 3rd section - (Regex) of JavaScript course.
+
+### Link(s) to Work: [fcc16.js](/FreeCodeCamp/fcc16.js)
