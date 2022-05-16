@@ -261,7 +261,7 @@ Regular expressions are important to know as they are used to match character co
 ### ✨ Day 21: May 15, 2022. SUN
 
 ### Today's Progress:
-Continued studying and practicing my regular expressions on FreeCodeCamp. 
+Continued studying and practicing regular expressions on FreeCodeCamp. 
 
 ### Thoughts:
 Pretty easy so far! Tmrw I'll do more exercises as I finish the 3rd section - (Regex) of JavaScript course.
