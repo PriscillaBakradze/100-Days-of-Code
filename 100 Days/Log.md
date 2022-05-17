@@ -267,3 +267,16 @@ Continued studying and practicing regular expressions on FreeCodeCamp.
 Pretty easy so far! Tmrw I'll do more exercises as I finish the 3rd section - (Regex) of JavaScript course.
 
 ### Link(s) to Work: [fcc16.js](/FreeCodeCamp/fcc16.js)
+
+---
+
+### ✨ Day 22: May 16, 2022. MON
+
+### Today's Progress:
+Finished the section of regular expressions. yayyyy </br>
+![image](https://user-images.githubusercontent.com/102761223/168723158-c16ca331-a4a3-449a-a18a-1ec566e41349.png)
+
+### Thoughts:
+Keep the motivation!!!
+
+### Link(s) to Work: [fcc17.js](/FreeCodeCamp/fcc17.js)
