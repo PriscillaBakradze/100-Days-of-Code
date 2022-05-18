@@ -280,3 +280,15 @@ Finished the section of regular expressions. yayyyy </br>
 Keep the motivation!!!
 
 ### Link(s) to Work: [fcc17.js](/FreeCodeCamp/fcc17.js)
+
+---
+
+### ✨ Day 23: May 17, 2022. TUE
+
+### Today's Progress:
+Started the fourth section of JS course on FreeCodeCamp. (debugging)...
+
+### Thoughts:
+Just keep practicing...
+
+### Link(s) to Work: [fcc18.js](/FreeCodeCamp/fcc18.js)
