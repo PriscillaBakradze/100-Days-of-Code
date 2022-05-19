@@ -292,3 +292,16 @@ Started the fourth section of JS course on FreeCodeCamp. (debugging)...
 Just keep practicing...
 
 ### Link(s) to Work: [fcc18.js](/FreeCodeCamp/fcc18.js)
+
+---
+
+### ✨ Day 24: May 18, 2022. WED
+
+### Today's Progress:
+Finished the fourth section of JS course on FreeCodeCamp. (debugging)... </br>
+![image](https://user-images.githubusercontent.com/102761223/169180924-5b89639c-a3bd-4462-9552-1a0f9573be02.png)
+
+### Thoughts:
+Debugging section was overall easy and straightforward. Gets complex moving forward, but hey, that's expected. Just gotta keep going!🙏
+
+### Link(s) to Work: [fcc19.js](/FreeCodeCamp/fcc19.js)
