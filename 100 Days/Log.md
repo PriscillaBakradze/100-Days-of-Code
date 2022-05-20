@@ -305,3 +305,15 @@ Finished the fourth section of JS course on FreeCodeCamp. (debugging)... </br>
 Debugging section was overall easy and straightforward. Gets complex moving forward, but hey, that's expected. Just gotta keep going!🙏
 
 ### Link(s) to Work: [fcc19.js](/FreeCodeCamp/fcc19.js)
+
+--- 
+
+### ✨ Day 25: May 19, 2022. THU
+
+### Today's Progress:
+Started the new section of JS course on FreeCodeCamp. (data structures)..
+
+### Thoughts:
+The exercises covered more topics of arrays/objects, and I got introduced to the splice() method...okay, nothing TOO complex as of yet, lol 
+
+### Link(s) to Work: [fcc20.js](/FreeCodeCamp/fcc20.js)
