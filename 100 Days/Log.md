@@ -317,3 +317,15 @@ Started the new section of JS course on FreeCodeCamp. (data structures)..
 The exercises covered more topics of arrays/objects, and I got introduced to the splice() method...okay, nothing TOO complex as of yet, lol 
 
 ### Link(s) to Work: [fcc20.js](/FreeCodeCamp/fcc20.js)
+
+--- 
+
+### ✨ Day 26: May 20, 2022. FRI
+
+### Today's Progress:
+Had the priviledge of attending my friends' congress online. Their sermon about Christianity was enlightening and encouraging, super grateful for this amazing opportunity. Thank you [diliGentt](https://github.com/GarnettGrant)!!! (yes, I finally learned how to tag ppl) xD
+
+### Thoughts:
+Created a simple yet special website to me which generates different Bible verses! Was able to finish it in an hour...hehe
+
+### Link(s) to Work: [BibleVerses](https://github.com/PriscillaBakradze/BibleVerses)
