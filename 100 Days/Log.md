@@ -329,3 +329,15 @@ Had the priviledge of attending my friends' congress online. Their sermon about 
 Created a simple yet special website to me which generates different Bible verses! Was able to finish it in an hour...hehe
 
 ### Link(s) to Work: [BibleVerses](https://github.com/PriscillaBakradze/BibleVerses)
+
+---
+
+### ✨ Day 27: May 21, 2022. SAT
+
+### Today's Progress:
+Continued my lessons on FreeCodeCamp. (data structures)...
+
+### Thoughts:
+More practice with the arrays, learned couple of new methods and did a few exercises.
+
+### Link(s) to Work: [fcc21.js](/FreeCodeCamp/fcc21.js)
