@@ -328,7 +328,7 @@ Had the priviledge of attending my friends' congress online. Their sermon about 
 ### Thoughts:
 Created a simple yet special website to me which generates different Bible verses! Was able to finish it in an hour...hehe
 
-### Link(s) to Work: [BibleVerses](https://github.com/PriscillaBakradze/BibleVerses)
+### Link(s) to Work: [BibleVerses](https://priscillabakradze.github.io/BibleVerses/)
 
 ---
 
