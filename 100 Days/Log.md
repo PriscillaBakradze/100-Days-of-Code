@@ -341,3 +341,15 @@ Continued my lessons on FreeCodeCamp. (data structures)...
 More practice with the arrays, learned couple of new methods and did a few exercises.
 
 ### Link(s) to Work: [fcc21.js](/FreeCodeCamp/fcc21.js)
+
+--- 
+
+### ✨ Day 28: May 22, 2022. SUN
+
+### Today's Progress:
+Did a few exercises on FreeCodeCamp. (data structures)...
+
+### Thoughts:
+Arrays, objects, arrays, objects, and MORE arrays and objects!!! 
+
+### Link(s) to Work: [fcc22.js](/FreeCodeCamp/fcc22.js)
