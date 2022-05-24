@@ -353,3 +353,19 @@ Did a few exercises on FreeCodeCamp. (data structures)...
 Arrays, objects, arrays, objects, and MORE arrays and objects!!! 
 
 ### Link(s) to Work: [fcc22.js](/FreeCodeCamp/fcc22.js)
+
+---
+
+### ✨ Day 29: May 23, 2022. MON
+
+### Today's Progress:
+Finished the Data Structures section on FreeCodeCamp today.<br/>
+![image](https://user-images.githubusercontent.com/102761223/169926173-9f177f52-ec9f-4770-833b-576d6db788ee.png)
+
+### Thoughts:
+Just keep practicing!
+
+### Link(s) to Work: [fcc23.js](/FreeCodeCamp/fcc23.js)
+
+
+
