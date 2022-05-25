@@ -367,5 +367,15 @@ Just keep practicing!
 
 ### Link(s) to Work: [fcc23.js](/FreeCodeCamp/fcc23.js)
 
+---
 
+### ✨ Day 30: May 24, 2022. TUE
+
+### Today's Progress:
+Started the new section on FreeCodeCamp. (algorithm scripting)...
+
+### Thoughts:
+Ye, it's getting complex, no surprise, but I'mma just keep on practicing. 🥲
+
+### Link(s) to Work: [fcc24.js](/FreeCodeCamp/fcc24.js)
 
