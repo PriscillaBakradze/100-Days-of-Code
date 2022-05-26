@@ -379,3 +379,15 @@ Ye, it's getting complex, no surprise, but I'mma just keep on practicing. 🥲
 
 ### Link(s) to Work: [fcc24.js](/FreeCodeCamp/fcc24.js)
 
+--- 
+
+### ✨ Day 31: May 25, 2022. WED
+
+### Today's Progress:
+Did a few exercises on FCC.
+
+### Thoughts:
+Keep going!
+
+### Link(s) to Work: [fcc25.js](/FreeCodeCamp/fcc25.js)
+
