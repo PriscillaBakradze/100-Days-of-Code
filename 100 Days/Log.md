@@ -391,3 +391,15 @@ Keep going!
 
 ### Link(s) to Work: [fcc25.js](/FreeCodeCamp/fcc25.js)
 
+--- 
+
+### ✨ Day 32: May 26, 2022. THU
+
+### Today's Progress:
+Continued with my lessons on FreeCodeCamp.
+
+### Thoughts:
+It's not getting any easier. Lol
+
+### Link(s) to Work: [fcc26.js](/FreeCodeCamp/fcc26.js)
+
