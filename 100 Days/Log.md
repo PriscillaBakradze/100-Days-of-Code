@@ -415,3 +415,15 @@ Finished the Algorithm Scripting section on FCC.<br/>
 The exercises were a bit challenging for me, sadly.
 
 ### Link(s) to Work: [fcc27.js](/FreeCodeCamp/fcc27.js)
+
+--- 
+
+### ✨ Day 34: May 28, 2022. SAT
+
+### Today's Progress:
+Started the new section on FCC (object oriented programming)...
+
+### Thoughts:
+The exercises were ez since it was just the basics of constructors and objects, phew...
+
+### Link(s) to Work: [fcc28.js](/FreeCodeCamp/fcc28.js)
