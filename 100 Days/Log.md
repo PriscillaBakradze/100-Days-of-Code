@@ -403,3 +403,15 @@ It's not getting any easier. Lol
 
 ### Link(s) to Work: [fcc26.js](/FreeCodeCamp/fcc26.js)
 
+---
+
+### ✨ Day 33: May 27, 2022. FRI
+
+### Today's Progress:
+Finished the Algorithm Scripting section on FCC.<br/>
+![image](https://user-images.githubusercontent.com/102761223/170844978-da0a40f6-1590-4356-8e4f-5243c3535889.png)
+
+### Thoughts:
+The exercises were a bit challenging for me, sadly.
+
+### Link(s) to Work: [fcc27.js](/FreeCodeCamp/fcc27.js)
