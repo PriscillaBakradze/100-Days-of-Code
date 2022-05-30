@@ -427,3 +427,15 @@ Started the new section on FCC (object oriented programming)...
 The exercises were ez since it was just the basics of constructors and objects, phew...
 
 ### Link(s) to Work: [fcc28.js](/FreeCodeCamp/fcc28.js)
+
+---
+
+### ✨ Day 35: May 29, 2022. SUN
+
+### Today's Progress:
+Did a few exercises on the new section (object oriented programming)...
+
+### Thoughts:
+Keep practicing......
+
+### Link(s) to Work: [fcc29.js](/FreeCodeCamp/fcc29.js)
