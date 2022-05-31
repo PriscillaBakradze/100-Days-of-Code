@@ -439,3 +439,15 @@ Did a few exercises on the new section (object oriented programming)...
 Keep practicing......
 
 ### Link(s) to Work: [fcc29.js](/FreeCodeCamp/fcc29.js)
+
+---
+
+### ✨ Day 36: May 30, 2022. MON
+
+### Today's Progress:
+Completed couple of OOP section exercises...
+
+### Thoughts:
+More practice with constructors/properties!
+
+### Link(s) to Work: [fcc30.js](/FreeCodeCamp/fcc30.js)
