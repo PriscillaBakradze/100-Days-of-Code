@@ -451,3 +451,15 @@ Completed couple of OOP section exercises...
 More practice with constructors/properties!
 
 ### Link(s) to Work: [fcc30.js](/FreeCodeCamp/fcc30.js)
+
+---
+
+### ✨ Day 37: May 31, 2022. TUE
+
+### Today's Progress:
+Did a couple of OOP section exercises...
+
+### Thoughts:
+More practice with constructors/prototypes!
+
+### Link(s) to Work: [fcc31.js](/FreeCodeCamp/fcc31.js)
