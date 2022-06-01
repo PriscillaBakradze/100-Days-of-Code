@@ -463,3 +463,15 @@ Did a couple of OOP section exercises...
 More practice with constructors/prototypes!
 
 ### Link(s) to Work: [fcc31.js](/FreeCodeCamp/fcc31.js)
+
+---
+
+### ✨ Day 38: June 1, 2022. WED
+
+### Today's Progress:
+Continued doing the next couple of OOP section exercises...
+
+### Thoughts:
+Learned more about the prototypes and constructors!
+
+### Link(s) to Work: [fcc32.js](/FreeCodeCamp/fcc32.js)
