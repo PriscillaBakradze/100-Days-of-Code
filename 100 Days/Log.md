@@ -475,3 +475,16 @@ Continued doing the next couple of OOP section exercises...
 Learned more about the prototypes and constructors!
 
 ### Link(s) to Work: [fcc32.js](/FreeCodeCamp/fcc32.js)
+
+---
+
+### ✨ Day 39: June 2, 2022. THU
+
+### Today's Progress:
+Finished the OOP section on FreeCodeCamp.<br/>![image](https://user-images.githubusercontent.com/102761223/171694408-fed875f2-fbdb-41d8-8ad3-551a6bdba9ac.png)
+
+### Thoughts:
+I really enjoyed this part of the course as it taught me lots of cool and new concept about constructors!!!
+
+### Link(s) to Work: [fcc33.js](/FreeCodeCamp/fcc33.js)
+
