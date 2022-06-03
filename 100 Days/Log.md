@@ -488,3 +488,14 @@ I really enjoyed this part of the course as it taught me lots of cool and new co
 
 ### Link(s) to Work: [fcc33.js](/FreeCodeCamp/fcc33.js)
 
+---
+
+### ✨ Day 40: June 3, 2022. FRI
+
+### Today's Progress:
+Started the new section on FCC (Functional Programming)...
+
+### Thoughts:
+Did a few exercises...pretty straightforward and basic...
+
+### Link(s) to Work: [fcc34.js](/FreeCodeCamp/fcc34.js)
