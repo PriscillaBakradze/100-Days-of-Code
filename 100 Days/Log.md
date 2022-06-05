@@ -499,3 +499,15 @@ Started the new section on FCC (Functional Programming)...
 Did a few exercises...pretty straightforward and basic...
 
 ### Link(s) to Work: [fcc34.js](/FreeCodeCamp/fcc34.js)
+
+---
+
+### ✨ Day 41: June 4, 2022. SAT
+
+### Today's Progress:
+Continued the Functional Programming section on FCC.
+
+### Thoughts:
+Gets a bit challenging, but with more practice it's not unattainable...
+
+### Link(s) to Work: [fcc35.js](/FreeCodeCamp/fcc35.js)
