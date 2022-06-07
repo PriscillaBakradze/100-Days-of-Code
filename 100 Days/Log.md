@@ -511,3 +511,15 @@ Continued the Functional Programming section on FCC.
 Gets a bit challenging, but with more practice it's not unattainable...
 
 ### Link(s) to Work: [fcc35.js](/FreeCodeCamp/fcc35.js)
+
+---
+
+### ✨ Day 42: June 6, 2022. MON
+
+### Today's Progress:
+Did a few exercises on FCC...
+
+### Thoughts:
+Practice...
+
+### Link(s) to Work: [fcc36.js](/FreeCodeCamp/fcc36.js)
