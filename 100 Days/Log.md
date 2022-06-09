@@ -535,3 +535,15 @@ Spent time doing couple of FCC exercises...
 Ye, need more practice!
 
 ### Link(s) to Work: [fcc37.js](/FreeCodeCamp/fcc37.js)
+
+--- 
+
+### ✨ Day 44: June 8, 2022. WED
+
+### Today's Progress:
+Did a few exercises on FCC... 
+
+### Thoughts:
+Practice....practice....
+
+### Link(s) to Work: [fcc38.js](/FreeCodeCamp/fcc38.js)
