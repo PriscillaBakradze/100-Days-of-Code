@@ -559,3 +559,15 @@ More exercises on FCC...
 Practice....practice....
 
 ### Link(s) to Work: [fcc39.js](/FreeCodeCamp/fcc39.js)
+
+---
+
+### ✨ Day 46: June 10, 2022. FRI
+
+### Today's Progress:
+Did more exercises on FCC... 
+
+### Thoughts:
+Practice....practice....
+
+### Link(s) to Work: [fcc40.js](/FreeCodeCamp/fcc40.js)
