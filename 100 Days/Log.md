@@ -571,3 +571,15 @@ Did more exercises on FCC...
 Practice....practice....
 
 ### Link(s) to Work: [fcc40.js](/FreeCodeCamp/fcc40.js)
+
+---
+
+### ✨ Day 47: June 11, 2022. SAT
+
+### Today's Progress:
+More exercises on FCC... 
+
+### Thoughts:
+Keep practicing! 
+
+### Link(s) to Work: [fcc41.js](/FreeCodeCamp/fcc41.js)
