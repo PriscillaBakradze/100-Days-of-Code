@@ -583,3 +583,15 @@ More exercises on FCC...
 Keep practicing! 
 
 ### Link(s) to Work: [fcc41.js](/FreeCodeCamp/fcc41.js)
+
+---
+
+### ✨ Day 48: June 12, 2022. SUN
+
+### Today's Progress:
+Finished the Functional Programming section on FreeCodeCamp.<br/>![image](https://user-images.githubusercontent.com/102761223/173272711-33cb1023-b9be-42e6-838b-8ff70f4ed508.png)
+
+### Thoughts:
+Getting harder and more challenging which is totally expected, but with more dedication and devotion it gets easier and fun!
+
+### Link(s) to Work: [fcc42.js](/FreeCodeCamp/fcc42.js)
