@@ -3,9 +3,7 @@
 ### ✨ Day 1: April 25, 2022. MON
 ### Today's Progress: 
   * Grateful to have the opportunity of buying online courses on Udemy. I started watching and following along with The Complete JavaScript Course 2022: From Zero to Expert! [JavaScript Course 2022](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22628657#overview). 
-So far it's easy and I'm breezing through the vidoes. :) 
-
-![image](https://user-images.githubusercontent.com/102761223/165196142-567dca95-ae50-4496-9c45-f021a69fa3f5.png)
+So far it's easy and I'm breezing through the vidoes. :) <br/> ![image](https://user-images.githubusercontent.com/102761223/165196142-567dca95-ae50-4496-9c45-f021a69fa3f5.png)
 
   * I watched a coding challenge on YouTube that covers 10 JS Projects and replicated a Countdown Timer website. [Coding Challenge](https://www.youtube.com/watch?v=dtKciwk_si4&ab_channel=FlorinPop).
 
@@ -19,9 +17,7 @@ I really want to master JavaScript and create projects of my own using the said 
 ### ✨ Day 2: April 26, 2022. TUE
 
 ### Today's Progress:
-  * I continued watching The Complete JavaScript Course on Udemy and have progressed a little further.
-  
-![image](https://user-images.githubusercontent.com/102761223/165399559-f1753ace-1b5d-4364-a782-74cda78e3596.png)
+  * I continued watching The Complete JavaScript Course on Udemy and have progressed a little further.<br/>![image](https://user-images.githubusercontent.com/102761223/165399559-f1753ace-1b5d-4364-a782-74cda78e3596.png)
 
   * I replicated a Quiz App website. [Coding Challenge](./https://www.youtube.com/watch?v=dtKciwk_si4).
 
@@ -35,9 +31,7 @@ I just got familiar with ternary in JS 🥲, and it is quite a useful conditiona
 ### ✨ Day 3: April 27, 2022. WED
 
 ### Today's Progress:
-I watched the next couple of videos on Udemy covering the JS functions. At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge. 
-
-![image](https://user-images.githubusercontent.com/102761223/165662441-e15005f9-30e2-4073-a4c6-ccfcf81b304f.png)
+I watched the next couple of videos on Udemy covering the JS functions. At the end of the tutorial, I had a coding challenge that allowed me to demonstrate what I learned and I'm thankful to have been able to finish the challenge.<br/>![image](https://user-images.githubusercontent.com/102761223/165662441-e15005f9-30e2-4073-a4c6-ccfcf81b304f.png)
 
 ### Thoughts: 
 I had no idea what was the difference between a function expression and a function declaration. Maybe this is something I should have known by now, but I'm still happy I got to learn the difference today. I'll be moving on to JS arrays tomorrow and I hope I'm able to do the challenge as I struggle a little bit with the arrays. :(
@@ -49,9 +43,7 @@ I had no idea what was the difference between a function expression and a functi
 ### ✨ Day 4: April 28, 2022. THU
 
 ### Today's Progress:
-I moved on to the arrays in my JS course. I had an array exercise awaiting me at the end which I was able to finish. Although, didn't make much progress with the videos as I would have liked, but tomorrow will definitely try to advance forward as I try to complete 2 coding challenges covering new topics.
-
- ![image](https://user-images.githubusercontent.com/102761223/165877093-fec45604-b02a-46d8-9cab-b5a08ad6f28b.png)
+I moved on to the arrays in my JS course. I had an array exercise awaiting me at the end which I was able to finish. Although, didn't make much progress with the videos as I would have liked, but tomorrow will definitely try to advance forward as I try to complete 2 coding challenges covering new topics.<br/>![image](https://user-images.githubusercontent.com/102761223/165877093-fec45604-b02a-46d8-9cab-b5a08ad6f28b.png)
 
 ### Thoughts: 
 I'm getting the hang of the arrays; super practical and convenient - it is truly something that I want to master. I also learned a couple of essential methods.
@@ -63,9 +55,7 @@ I'm getting the hang of the arrays; super practical and convenient - it is truly
 ### ✨ Day 5: April 29, 2022. FRI
 
 ### Today's Progress:
-Continued with the arrays topic today and got into learning the objects, and for/while loops as well. With the help of the Lord, I was able to complete the 2 coding challenges at the end of the lesson and I also started a JS course on FreeCodeCamp and did couple of exercises on there.
-
-  ![image](https://user-images.githubusercontent.com/102761223/166085621-b61089cd-ae26-4f9a-a265-a06d154eedc3.png)
+Continued with the arrays topic today and got into learning the objects, and for/while loops as well. With the help of the Lord, I was able to complete the 2 coding challenges at the end of the lesson and I also started a JS course on FreeCodeCamp and did couple of exercises on there.<br/>![image](https://user-images.githubusercontent.com/102761223/166085621-b61089cd-ae26-4f9a-a265-a06d154eedc3.png)
 
 ### Thoughts:
 Although am quite familiar as to how loops work, I'm grateful to have the opportunity to go over these concepts and refresh my mind cause I really am no expert and do need daily practice. And I feel like I should point this out...but the reason why I take a screenshot of my progress in my JS course on Udemy everyday is because on the 100th day of the challenge, I can look back and see the improvement and the progress that I have made... Hopefully by then I'll be more comfortable and confident with using JS functions, arrays, objects, loops, etc...
@@ -92,7 +82,7 @@ Took a little break from the Udemy courses as I'll be moving on to a different c
 Continued practicing the objects and arrays on FreeCodeCamp. 
 
 ### Thoughts:
-Learned the hasOwnProperty() method today which I hadn't heard before unfortunately...it essentially indicates whether the object owns the specified property as opposed to inheriting it...pretty straightfoward I know, lol :( Did some exercises on nested objects and arrays which was a little confusing at first, but I'm starting to fully understand and grasp the whole concept. Grateful for these short challenges that I get to do which help me to analyze and comprehend what exactly I learned... Today marks 1 week of the 100 DOC challenge, and I'm thankful to be apart of this as this challenge keeps me daily motivated and encouraged to keep on coding and studying!! Thanks *diliGentt*! <br/> (couldn't figure out how to accurately tag a person on GitHub, yes, I'm a boomer)....
+Learned the hasOwnProperty() method today which I hadn't heard before unfortunately...it essentially indicates whether the object owns the specified property as opposed to inheriting it...pretty straightfoward I know, lol :( Did some exercises on nested objects and arrays which was a little confusing at first, but I'm starting to fully understand and grasp the whole concept. Grateful for these short challenges that I get to do which help me to analyze and comprehend what exactly I learned... Today marks 1 week of the 100 DOC challenge, and I'm thankful to be apart of this as this challenge keeps me daily motivated and encouraged to keep on coding and studying!! Thanks *diliGentt*!<br/>(couldn't figure out how to accurately tag a person on GitHub, yes, I'm a boomer)...
 
 ### Link(s) to Work: [fcc3.js](/FreeCodeCamp/fcc3.js)
 
@@ -101,8 +91,7 @@ Learned the hasOwnProperty() method today which I hadn't heard before unfortunat
 ### ✨ Day 8: May 2, 2022. MON
 
 ### Today's Progress:
-Progressed a little further in my JS Udemy course. Learned a few tricks and methods on solving problems and debugging code... <br/>
-![image](https://user-images.githubusercontent.com/102761223/166400009-7d2f68d6-f5dc-449b-9ca7-4075e7665c2d.png)
+Progressed a little further in my JS Udemy course. Learned a few tricks and methods on solving problems and debugging code...<br/>![image](https://user-images.githubusercontent.com/102761223/166400009-7d2f68d6-f5dc-449b-9ca7-4075e7665c2d.png)
 
 ### Thoughts:
 Did an exercise at the end that covered the arrays topic...the challenge was a little confusing at first, but I understood the logic so it wasn't TOO bad...
@@ -613,8 +602,8 @@ Keep practicing...
 ### ✨ Day 50: June 14, 2022. TUE
 
 ### Today's Progress:
-Did two exercises on FCC... I know it's not much, but they were quite challenging and difficult. (not an excuse) 🥲
-Continued watching my JS courses on Udemy. Started a project "Guess The Number" and so far it's super fun and easy!<br/>![image](https://user-images.githubusercontent.com/102761223/173701379-d1b3cb29-d4c6-4cc4-a4a9-6dc71e068df6.png)
+Did two exercises on FCC... I know it's not much, but they were quite challenging and difficult. (not an excuse) 🥲<br/>
+Continued watching my JS courses on Udemy; started a project "Guess The Number" and so far it's super fun and easy!<br/>![image](https://user-images.githubusercontent.com/102761223/173701379-d1b3cb29-d4c6-4cc4-a4a9-6dc71e068df6.png)
 
 ### Thoughts:
 Keep practicing...
