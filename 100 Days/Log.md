@@ -607,3 +607,16 @@ Started new module on FCC (Intermediate Algorithm Scripting)...
 Keep practicing...
 
 ### Link(s) to Work: [fcc43.js](/FreeCodeCamp/fcc43.js)
+
+---
+
+### ✨ Day 50: June 14, 2022. TUE
+
+### Today's Progress:
+Did two exercises on FCC... I know it's not much, but they were quite challenging and difficult. (not an excuse) 🥲
+Continued watching my JS courses on Udemy. Started a project "Guess The Number" and so far it's super fun and easy!<br/>![image](https://user-images.githubusercontent.com/102761223/173701379-d1b3cb29-d4c6-4cc4-a4a9-6dc71e068df6.png)
+
+### Thoughts:
+Keep practicing...
+
+### Link(s) to Work: [fcc44.js](/FreeCodeCamp/fcc44.js)
