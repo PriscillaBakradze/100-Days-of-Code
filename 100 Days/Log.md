@@ -609,3 +609,17 @@ Continued watching my JS courses on Udemy; started a project "Guess The Number" 
 Keep practicing...
 
 ### Link(s) to Work: [fcc44.js](/FreeCodeCamp/fcc44.js)
+
+---
+
+### ✨ Day 51: June 15, 2022. WED
+
+### Today's Progress:
+Finished the project on Udemy.<br/>![image](https://user-images.githubusercontent.com/102761223/173940433-a6bbcb32-3a2a-4919-8fd3-ed2190788b19.png)<br/>
+Did a few exercises on FCC.
+
+### Thoughts:
+Not much to say except anything is possible if we work hard! :)
+
+### Link(s) to Work: [fcc45.js](/FreeCodeCamp/fcc45.js)
+
