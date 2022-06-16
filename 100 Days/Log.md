@@ -623,3 +623,14 @@ Not much to say except anything is possible if we work hard! :)
 
 ### Link(s) to Work: [fcc45.js](/FreeCodeCamp/fcc45.js)
 
+---
+
+### ✨ Day 52: June 16, 2022. THU
+
+### Today's Progress:
+Finished couple exercises on FreeCodeCamp.
+
+### Thoughts:
+Ngl the exercises were a bit difficult and challenging...
+
+### Link(s) to Work: [fcc46.js](/FreeCodeCamp/fcc46.js)
