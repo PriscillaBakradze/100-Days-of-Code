@@ -634,3 +634,15 @@ Finished couple exercises on FreeCodeCamp.
 Ngl the exercises were a bit difficult and challenging...
 
 ### Link(s) to Work: [fcc46.js](/FreeCodeCamp/fcc46.js)
+
+---
+
+### ✨ Day 53: June 17, 2022. FRI
+
+### Today's Progress:
+Did two exercises on FreeCodeCamp.
+
+### Thoughts:
+Getting harder and harder...
+
+### Link(s) to Work: [fcc47.js](/FreeCodeCamp/fcc47.js)
