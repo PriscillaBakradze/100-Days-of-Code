@@ -658,3 +658,15 @@ Did a few exercises on FreeCodeCamp.
 Gotta keep on practicing!
 
 ### Link(s) to Work: [fcc48.js](/FreeCodeCamp/fcc48.js)
+
+---
+
+### ✨ Day 55: June 19, 2022. SUN
+
+### Today's Progress:
+Did only one exercise today...
+
+### Thoughts:
+The exercise was challenging, but it's not surprising tho. Lol
+
+### Link(s) to Work: [fcc49.js](/FreeCodeCamp/fcc49.js)
