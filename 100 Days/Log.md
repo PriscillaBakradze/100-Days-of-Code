@@ -670,3 +670,15 @@ Did only one exercise today...
 The exercise was challenging, but it's not surprising tho. Lol
 
 ### Link(s) to Work: [fcc49.js](/FreeCodeCamp/fcc49.js)
+
+---
+
+### ✨ Day 56: June 20, 2022. MON
+
+### Today's Progress:
+Did one exercise today...
+
+### Thoughts:
+Had to check the solution to the problem, sadly. :( I struggled a bit with this one...
+
+### Link(s) to Work: [fcc50.js](/FreeCodeCamp/fcc50.js)
