@@ -682,3 +682,15 @@ Did one exercise today...
 Had to check the solution to the problem, sadly. :( I struggled a bit with this one...
 
 ### Link(s) to Work: [fcc50.js](/FreeCodeCamp/fcc50.js)
+
+---
+
+### ✨ Day 57: June 21, 2022. TUE
+
+### Today's Progress:
+More exercises on FCC...
+
+### Thoughts:
+These exercises are quite difficult, can't lie... T_T 
+
+### Link(s) to Work: [fcc51.js](/FreeCodeCamp/fcc51.js)
