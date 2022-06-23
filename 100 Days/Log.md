@@ -706,3 +706,15 @@ Did 2 exercises on FreeCodeCamp.
 Quite challenging...
 
 ### Link(s) to Work: [fcc52.js](/FreeCodeCamp/fcc52.js)
+
+--- 
+
+### ✨ Day 59: June 23, 2022. THU
+
+### Today's Progress:
+Finished the Intermediate Algorithm Scripting section on FCC today...<br/>![image](https://user-images.githubusercontent.com/102761223/175423129-86110766-f2d4-4bf4-99c9-6373838939ba.png)
+
+### Thoughts:
+Yea, the exercises were difficult yet again, but with more review and practice, it's not impossibleeeee
+
+### Link(s) to Work: [fcc53.js](/FreeCodeCamp/fcc53.js)
