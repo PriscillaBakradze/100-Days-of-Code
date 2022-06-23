@@ -694,3 +694,15 @@ More exercises on FCC...
 These exercises are quite difficult, can't lie... T_T 
 
 ### Link(s) to Work: [fcc51.js](/FreeCodeCamp/fcc51.js)
+
+---
+
+### ✨ Day 58: June 22, 2022. WED
+
+### Today's Progress:
+Did 2 exercises on FreeCodeCamp.
+
+### Thoughts:
+Quite challenging...
+
+### Link(s) to Work: [fcc52.js](/FreeCodeCamp/fcc52.js)
