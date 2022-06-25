@@ -718,3 +718,15 @@ Finished the Intermediate Algorithm Scripting section on FCC today...<br/>![imag
 Yea, the exercises were difficult yet again, but with more review and practice, it's not impossibleeeee
 
 ### Link(s) to Work: [fcc53.js](/FreeCodeCamp/fcc53.js)
+
+---
+
+### ✨ Day 60: June 24, 2022. FRI
+
+### Today's Progress:
+Watched my lessons on Udemy...created Modal Window website.<br/>![image](https://user-images.githubusercontent.com/102761223/175755842-a5da9fdc-f0d9-44a4-b460-3f724f0d0a91.png)
+
+### Thoughts:
+Super cool and useful while easy and straightforward to do!!!!
+
+Link(s) to Work: 
