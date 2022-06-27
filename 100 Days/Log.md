@@ -730,3 +730,27 @@ Watched my lessons on Udemy...created Modal Window website.<br/>![image](https:/
 Super cool and useful while easy and straightforward to do!!!!
 
 Link(s) to Work: 
+
+---
+
+### ✨ Day 61: June 25, 2022. SAT
+
+### Today's Progress:
+Started a new project on Udemy...tons of cool stuff to learn, very convenient and helpful!!
+
+### Thoughts:
+Keep going... 💯
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 62: June 27, 2022. MON
+
+### Today's Progress:
+Kept working on my new proj on Udemy...
+
+### Thoughts:
+Pretty enjoyable and easy! Thank the LORD!
+
+Link(s) to Work:
