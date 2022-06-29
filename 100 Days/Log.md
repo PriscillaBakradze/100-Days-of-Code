@@ -736,7 +736,7 @@ Link(s) to Work:
 ### ✨ Day 61: June 25, 2022. SAT
 
 ### Today's Progress:
-Started a new project on Udemy...tons of cool stuff to learn, very convenient and helpful!!
+Started a new project on Udemy (Pig Game)...tons of cool stuff to learn, very convenient and helpful!!
 
 ### Thoughts:
 Keep going... 💯
@@ -752,5 +752,17 @@ Kept working on my new proj on Udemy...
 
 ### Thoughts:
 Pretty enjoyable and easy! Thank the LORD!
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 63: June 28, 2022. TUE
+
+### Today's Progress:
+Still following along with the Pig Game project on Udemy...
+
+### Thoughts:
+Hopefully I'll get to finish it tmrw, kinda slacked off today... :(
 
 Link(s) to Work:
