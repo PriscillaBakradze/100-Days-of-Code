@@ -775,7 +775,7 @@ Link(s) to Work:
 Finished the project. 
 
 ### Thoughts:
-Learned lots of cool stuff. Some of the concepts I was familiar with, but it was really good refresher still...
+Learned lots of cool stuff. Some of the concepts I was familiar with, but it was a really good refresher still...
 
 Link(s) to Work:
 
