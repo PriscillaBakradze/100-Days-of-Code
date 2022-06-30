@@ -766,3 +766,16 @@ Still following along with the Pig Game project on Udemy...
 Hopefully I'll get to finish it tmrw, kinda slacked off today... :(
 
 Link(s) to Work:
+
+---
+
+### ✨ Day 64: June 29, 2022. WED
+
+### Today's Progress:
+Finished the project. 
+
+### Thoughts:
+Learned lots of cool stuff. Some of the concepts I was familiar with, but it was really good refresher still...
+
+Link(s) to Work:
+
