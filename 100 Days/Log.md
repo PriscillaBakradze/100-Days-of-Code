@@ -779,3 +779,16 @@ Learned lots of cool stuff. Some of the concepts I was familiar with, but it was
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 65: July 1, 2022. FRI
+
+### Today's Progress:
+Started working on a project using HTML, CSS and JS.
+
+### Thoughts:
+So far it's going well and as planned, God willing I finish the project successfully. (Once I'm done, will post it on GitHub)!
+
+Link(s) to Work:
+
+
