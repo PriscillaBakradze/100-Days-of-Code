@@ -791,4 +791,16 @@ So far it's going well and as planned, God willing I finish the project successf
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 66: July 2, 2022. SAT
+
+### Today's Progress:
+Watched a few lessons on Udemy (How JS works behind the scenes - super informative)<br/>![image](https://user-images.githubusercontent.com/102761223/177023423-e1ef679d-cf71-4540-b516-9a2d94dcfd4d.png)
+
+### Thoughts:
+Still have a long way to go with my progress, but I'll get theeeereee 
+
+Link(s) to Work:
+
 
