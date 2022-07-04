@@ -803,4 +803,16 @@ Still have a long way to go with my progress, but I'll get theeeereee
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 67: July 3, 2022. SUN
+
+### Today's Progress:
+Watched 2 more vids on Udemy, learned about scope chain and call stack...<br/>![image](https://user-images.githubusercontent.com/102761223/177080713-6a1e7155-cb66-4e6e-8fc4-d931afd4a390.png)
+
+### Thoughts:
+Very interesting lessons!!!
+
+Link(s) to Work:
+
 
