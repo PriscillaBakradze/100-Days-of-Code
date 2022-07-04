@@ -811,7 +811,7 @@ Link(s) to Work:
 Watched 2 more vids on Udemy, learned about scope chain and call stack...<br/>![image](https://user-images.githubusercontent.com/102761223/177080713-6a1e7155-cb66-4e6e-8fc4-d931afd4a390.png)
 
 ### Thoughts:
-Very interesting lessons!!!
+Very interesting and useful lessons!!!
 
 Link(s) to Work:
 
