@@ -815,4 +815,26 @@ Very interesting and useful lessons!!!
 
 Link(s) to Work:
 
+---
 
+### ✨ Day 68: July 4, 2022. MON
+
+### Today's Progress:
+I worked on my Typing Test project today, almost close to the finish line!
+
+### Thoughts:
+Working on different projects really helps me to further gain knowledge and put lessons//concepts into practice!!!
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 69: July 5, 2022. TUE
+
+### Today's Progress:
+Watched 2 lessons on Udemy (how JS works behind the scenes)<br/>![image](https://user-images.githubusercontent.com/102761223/177467261-50f48d7c-07bb-41ec-ba17-2553f79e9e55.png)
+
+### Thoughts:
+I hope to proceed a little faster while also making sure I absorb all the concepts and understand it all well!
+
+Link(s) to Work:
