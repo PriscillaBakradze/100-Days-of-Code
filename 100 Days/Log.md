@@ -838,3 +838,15 @@ Watched 2 lessons on Udemy (how JS works behind the scenes)<br/>![image](https:/
 I hope to proceed a little faster while also making sure I absorb all the concepts and understand it all well!
 
 Link(s) to Work:
+
+---
+
+### ✨ Day 70: July 7, 2022. THU
+
+### Today's Progress:
+Finished my typing test project with the help of the LORD.
+
+### Thoughts:
+Very challenging project. Required tons of stack overflow - tons of research! In the end, it was rewarding and I'm happy with the outcome. :) 
+
+Link(s) to Work:
