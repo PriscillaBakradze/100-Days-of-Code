@@ -850,3 +850,27 @@ Finished my typing test project with the help of the LORD.
 Very challenging project. Required tons of stack overflow - tons of research! In the end, it was rewarding and I'm happy with the outcome. :) 
 
 Link(s) to Work:
+
+---
+
+### ✨ Day 71: July 8, 2022. FRI
+
+### Today's Progress:
+More lessons on Udemy...<br/>![image](https://user-images.githubusercontent.com/102761223/178130072-8958b1f9-edee-476d-8089-aa57fa874657.png)
+
+### Thoughts:
+Useful information!
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 72: July 9, 2022. SAT
+
+### Today's Progress:
+Watched just one lesson on Udemy covering the "This" keyword in JS...
+
+### Thoughts:
+Keep studyinggggg
+
+Link(s) to Work:
