@@ -874,3 +874,13 @@ Watched just one lesson on Udemy covering the "This" keyword in JS...
 Keep studyinggggg
 
 Link(s) to Work:
+
+---
+
+### ✨ Day 73: July 11, 2022. MON
+
+### Today's Progress:
+More lessonsssss on Udemy !!!!<br/>![image](https://user-images.githubusercontent.com/102761223/178406292-04de6e37-efd6-48fe-9097-33a81610c614.png)
+
+Link(s) to Work:
+
