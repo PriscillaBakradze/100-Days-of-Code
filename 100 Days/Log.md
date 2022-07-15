@@ -884,3 +884,13 @@ More lessonsssss on Udemy !!!!<br/>![image](https://user-images.githubuserconten
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 74: July 14, 2022. THU
+
+### Today's Progress:
+Watched a few more vids on Udemy...<br/>![image](https://user-images.githubusercontent.com/102761223/179147611-0176a77d-cb8e-4ac8-854f-ec2ecf8df287.png)
+
+Link(s) to Work:
+
+
