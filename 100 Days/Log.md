@@ -893,4 +893,22 @@ Watched a few more vids on Udemy...<br/>![image](https://user-images.githubuserc
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 75: July 18, 2022. MON
+
+### Today's Progress:
+Haven't document for three days consecutively but I have been working on my portfolio as I'm trying to make it RESPONSIVEEEE !!! Took tons of research but it's expected.
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 76: July 19, 2022. TUE
+
+### Today's Progress:
+Thanks to God I was able to finish my portfolio website succesfully. It's reponsive, I'm happy.
+
+Link(s) to Work:
+
 
