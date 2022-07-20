@@ -898,7 +898,7 @@ Link(s) to Work:
 ### ✨ Day 75: July 18, 2022. MON
 
 ### Today's Progress:
-Haven't document for three days consecutively but I have been working on my portfolio as I'm trying to make it RESPONSIVEEEE !!! Took tons of research but it's expected.
+Haven't documented my progress for three days consecutively but I have been working on my portfolio as I'm trying to make it RESPONSIVEEEE !!! Took tons of research but it's expected.
 
 Link(s) to Work:
 
