@@ -911,4 +911,13 @@ Thanks to God I was able to finish my portfolio website succesfully. It's respon
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 77: July 20, 2022. WED
+
+### Today's Progress:
+Created a Calendar website! Stumbled upon couple obstacles, but StackOverFlow ftw! Lol
+
+Link(s) to Work:
+
 
