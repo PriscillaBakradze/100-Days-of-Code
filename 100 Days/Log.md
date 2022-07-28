@@ -920,4 +920,30 @@ Created a Calendar website! Stumbled upon couple obstacles, but StackOverFlow ft
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 78: July 25, 2022. MON
+
+### Today's Progress:
+Started working on a new project "Memory Card Game".
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 79: July 26, 2022. TUE
+
+### Today's Progress:
+Still working on my new project......
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 80: July 27, 2022. WED
+
+### Today's Progress:
+Almost finished with my project, just need to add a reset button which is a bit annoying to do :(
+
+Link(s) to Work:
 
