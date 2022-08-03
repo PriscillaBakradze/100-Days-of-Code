@@ -947,3 +947,22 @@ Almost finished with my project, just need to add a reset button which is a bit 
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 81: July 28, 2022. THU
+
+### Today's Progress:
+Added a reset button - does its job, works properly.
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 82: July 31, 2022. SUN
+
+### Today's Progress:
+Done with the Memory Card Game project, just have a few more stuff to add to make it wholly complete. 
+
+Link(s) to Work:
+
+
