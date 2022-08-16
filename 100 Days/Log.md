@@ -965,4 +965,48 @@ Done with the Memory Card Game project, just have a few more stuff to add to mak
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 83: August 10, 2022. WED
+
+### Today's Progress:
+Officially finished the Memory Game proj today...
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 84: August 12, 2022. FRI
+
+### Today's Progress:
+Started working on a Calculator project in JS.
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 85: August 13, 2022. SAT
+
+### Today's Progress:
+Worked on my Calc project...
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 86: August 14, 2022. SUN
+
+### Today's Progress:
+Worked on the JS part of the code...
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 87: August 15, 2022. MON
+
+### Today's Progress:
+Almost done with my project. Addition and subtraction working well.. now gotta work on percentage calculations...
+
+Link(s) to Work:
 
