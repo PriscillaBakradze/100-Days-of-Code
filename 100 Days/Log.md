@@ -1006,7 +1006,16 @@ Link(s) to Work:
 ### ✨ Day 87: August 15, 2022. MON
 
 ### Today's Progress:
-Almost done with my project. Addition and subtraction working well.. now gotta work on percentage calculations...
+Addition and subtraction working well.. now gotta work on percentage calculations...
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 88: August 16, 2022. TUE
+
+### Today's Progress:
+Division and multiplication working well too, almost there...
 
 Link(s) to Work:
 
