@@ -1021,7 +1021,7 @@ Link(s) to Work:
 
 ---
 
-### ✨ Day 89: August 17, 2022. WED
+### ✨ Day 89: August 18, 2022. THU
 
 ### Today's Progress:
 Done with my calculator project, quite simple but convenient and useful.
