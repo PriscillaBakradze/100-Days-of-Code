@@ -1028,3 +1028,47 @@ Done with my calculator project, quite simple but convenient and useful.
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 90: August 19, 2022. FRI
+
+### Today's Progress:
+Refreshed my memory today by doing some SQL exercises !!
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 91: August 22, 2022. MON
+
+### Today's Progress:
+Did more SQL exercises. 
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 92: August 24, 2022. WED
+
+### Today's Progress:
+Started watching Java programming tutorials on YouTube.
+
+Link(s) to Work:
+
+--- 
+
+### ✨ Day 93: August 29, 2022. MON
+
+### Today's Progress:
+This week mostly focusing on Java language. So far it's all basics and even similar to C# ...
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 94: August 30, 2022. TUE
+
+### Today's Progress:
+MORE JAVA !!! -_- 
+
+Link(s) to Work:
