@@ -1072,3 +1072,13 @@ Link(s) to Work:
 MORE JAVA !!! -_- 
 
 Link(s) to Work:
+
+---
+
+### ✨ Day 95: August 31, 2022. WED
+
+### Today's Progress:
+Watched a video tutorial of FreeCodeCamp about Java programming. Very informative!
+
+Link(s) to Work:
+
