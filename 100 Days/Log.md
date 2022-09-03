@@ -1082,3 +1082,30 @@ Watched a video tutorial of FreeCodeCamp about Java programming. Very informativ
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 96: September 1, 2022. THU
+
+### Today's Progress:
+Top tier video! 12 hrs of so much useful information. Thank God for all the free resources we have access to! [Free Java Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&ab_channel=BroCode)
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 97: September 2, 2022. FRI
+
+### Today's Progress:
+[Free Java Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&ab_channel=BroCode)
+
+Link(s) to Work:
+
+---
+
+### ✨ Day 98: September 3, 2022. SAT
+
+### Today's Progress:
+[Free Java Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&ab_channel=BroCode)
+
+Link(s) to Work:
+
