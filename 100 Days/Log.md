@@ -1109,3 +1109,12 @@ Link(s) to Work:
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 99: September 4, 2022. SUN
+
+### Today's Progress:
+[Free Java Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&ab_channel=BroCode)
+
+Link(s) to Work:
+
