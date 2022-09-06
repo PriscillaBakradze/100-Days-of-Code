@@ -1118,3 +1118,12 @@ Link(s) to Work:
 
 Link(s) to Work:
 
+---
+
+### ✨ Day 100: September 5, 2022. MON
+
+### Today's Progress:
+[Free Java Course](https://www.youtube.com/watch?v=xk4_1vDrzzo&ab_channel=BroCode)
+
+Link(s) to Work:
+
